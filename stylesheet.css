@@ -1,0 +1,57 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+   
+
+}
+/* first section */
+#main1{
+    margin:20px ;
+    height:200px;
+    border:2px solid black;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding:20px;
+}
+h1{
+    text-decoration: underline;
+}
+.content i{
+  font-weight: 900;
+}
+.linkage{
+    color: black;
+}
+
+
+
+/* 2nd section/ image section */
+#main2{
+    margin:20px;
+   
+   
+}
+#main2 img{
+    margin:20px 0px;
+   height:350px;
+}
+/* a tag */
+#readm{
+    margin:0px 20px;
+}
+
+/* 3rd section */
+#main3{
+    height:30%;
+    margin: 20px;
+    
+}
+#main3 h1{
+    margin-bottom: 20px;
+}
+#main3 ol li{
+    margin:5px 20px;
+}
+
